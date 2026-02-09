@@ -1,4 +1,4 @@
-# Ayub377
+# Md. Ayub Ali
 
 Full Stack Web Developer | Software Engineer  
 Experienced in building real-world, production-ready applications
@@ -7,10 +7,7 @@ Experienced in building real-world, production-ready applications
 
 ## 👋 About Me
 
-I am a **Full Stack Web Developer** with professional working experience in multiple software companies.  
-I have worked on a wide range of **real-life business applications**, from design to deployment.
-
-I am a **self-learner**, highly adaptable, and comfortable working with both development and server infrastructure.
+I am a **Full Stack Web Developer** with professional working experience in multiple software companies. I have worked on a wide range of **real-life business applications**, from design to deployment. I am a **self-learner**, highly adaptable, and comfortable working with both development and server infrastructure.
 
 ---
 
@@ -24,6 +21,8 @@ I have hands-on experience developing and maintaining enterprise-level systems, 
 - 🏥 **Healthcare Management Systems**
 - 🛍️ **E-commerce Platforms**
 - 📊 **Accounting & Financial Systems**
+- 🏭 **Inventory Management Systems**
+- 🏗️ **Industrial & Engineering Solutions**
 
 These projects involved real clients, real users, and real production environments.
 
