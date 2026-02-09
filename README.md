@@ -120,14 +120,14 @@ I have had the privilege to work with reputable organisations and deliver high-q
     <td align="center" width="200">
       <a href="https://doctordorkar.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://doctordorkar.com/logo.png" height="60" alt="Doctor Dorkar" title="Doctor Dorkar"/><br/>
-        <strong>Doctor Dorkar</strong>
       </a>
+      <strong>Doctor Dorkar</strong>
     </td>
     <td align="center" width="200">
-      <a href="https://www.example-company2.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://via.placeholder.com/150x60/00cc66/ffffff?text=Company+Two" height="60" alt="Company Two logo"/><br/>
-        <strong>Company Two</strong>
+      <a href="https://telmep.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://telmep.com/images/Triangle-BD-Header-Logo.png" height="60" alt="Triangle Engineers Ltd." title="Triangle Engineers Ltd."/><br/>
       </a>
+      <strong>Triangle Engineers Ltd.</strong>
     </td>
     <td align="center" width="200">
       <a href="https://www.example-company3.com" target="_blank" rel="noopener noreferrer">
