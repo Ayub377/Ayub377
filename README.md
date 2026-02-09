@@ -136,7 +136,7 @@ I have had the privilege to work with reputable organisations and deliver high-q
     </td>
     <td align="center" width="20%">
       <a href="https://axissafety.com.bd/" target="_blank" rel="noopener noreferrer">
-        <img src="https://axissafety.com.bd/axis-safety-engineering-ltd.jpg" height="50" alt="Axis Safety Engineering Ltd." title="Axis Safety Engineering Ltd."/><br/>
+        <img src="https://axissafety.com.bd/favicon.ico" height="50" alt="Axis Safety Engineering Ltd." title="Axis Safety Engineering Ltd."/><br/>
       </a>
       <small>Axis Safety Engineering Ltd.</small>
     </td>
@@ -206,7 +206,7 @@ I have had the privilege to work with reputable organisations and deliver high-q
     </td>
     <td align="center" width="20%">
       <a href="https://ptel.com.bd/" target="_blank" rel="noopener noreferrer">
-        <img src="https://ptel.com.bd/storage/app-setting/pacific-tech-and-engineering-ltd.png" height="50" alt="Pacific Tech & Engineering Limited" title="Pacific Tech & Engineering Limited"/><br/>
+        <img src="https://ptel.com.bd/favicon.ico" height="50" alt="Pacific Tech & Engineering Limited" title="Pacific Tech & Engineering Limited"/><br/>
       </a>
       <small>PTEL</small>
     </td>
@@ -217,6 +217,18 @@ I have had the privilege to work with reputable organisations and deliver high-q
         <img src="https://ayeshaairtravels.com/images/Aysha-logo-main%20logo.png" height="50" alt="Ayesha Air Travels" title="Ayesha Air Travels"/><br/>
       </a>
       <small>Ayesha Air Travels</small>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://utebd.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://ayubali.info/storage/app-setting/unique-uools-and-engineering-logo.png" height="50" alt="Unique Tools & Engineering" title="Unique Tools & Engineering"/><br/>
+      </a>
+      <small>Unique Tools & Engineering</small>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://vtmotorsport.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://vtmotorsport.com/static/media/logo.3c4c38f6a940010d3e05.png" height="50" alt="CHAMPION LUBRICANTS" title="CHAMPION LUBRICANTS"/><br/>
+      </a>
+      <small>CHAMPION LUBRICANTS</small>
     </td>
   </tr>
 </table>
