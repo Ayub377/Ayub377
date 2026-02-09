@@ -113,14 +113,14 @@ These projects involved real clients, real users, and real production environmen
 
 ## 🏆 Prestigious Clients
 
-I have had the privilege to work with reputable organizations and deliver high-quality solutions:
+I have had the privilege to work with reputable organisations and deliver high-quality solutions:
 
 <table>
   <tr>
     <td align="center" width="200">
-      <a href="https://www.example-company1.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://via.placeholder.com/150x60/0066cc/ffffff?text=Company+One" height="60" alt="Company One logo"/><br/>
-        <strong>Company One</strong>
+      <a href="https://doctordorkar.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://doctordorkar.com/logo.png" height="60" alt="Doctor Dorkar" title="Doctor Dorkar"/><br/>
+        <strong>Doctor Dorkar</strong>
       </a>
     </td>
     <td align="center" width="200">
