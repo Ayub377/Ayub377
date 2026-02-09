@@ -108,7 +108,6 @@ These projects involved real clients, real users, and real production environmen
   </tr>
 </table>
 
-  
 ---
 
 ## 🏆 Prestigious Clients
@@ -144,33 +143,83 @@ I have had the privilege to work with reputable organisations and deliver high-q
   </tr>
   <tr>
     <td align="center" width="200">
-      <a href="https://www.example-company5.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://via.placeholder.com/150x60/6600cc/ffffff?text=Company+Five" height="60" alt="Company Five logo"/><br/>
-        <strong>Company Five</strong>
+      <a href="https://hadidgalvanizing.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://hadidgalvanizing.com/images/Hadid-Galvanizing-Logo.png" height="60" alt="Hadid Galvanizing" title="Hadid Galvanizing"/><br/>
+      </a>
+      <strong>Hadid Galvanizing</strong>
+    </td>
+    <td align="center" width="200">
+      <a href="https://hadidglobal.com.bd/" target="_blank" rel="noopener noreferrer">
+        <img src="https://hadidglobal.com.bd/logo.png" height="60" alt="Hadid Global" title="Hadid Global"/><br/>
+      </a>
+      <strong>Hadid Global</strong>
+    </td>
+    <td align="center" width="200">
+      <a href="https://msiecotech.com.bd/" target="_blank" rel="noopener noreferrer">
+        <img src="https://msiecotech.com.bd/images/MSI-Ecotech-Limited-Logo.png" height="60" alt="MSI Ecotech Limited" title="MSI Ecotech Limited"/><br/>
+        <strong>MSI Ecotech Limited</strong>
       </a>
     </td>
     <td align="center" width="200">
-      <a href="https://www.example-company6.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://via.placeholder.com/150x60/009999/ffffff?text=Company+Six" height="60" alt="Company Six logo"/><br/>
-        <strong>Company Six</strong>
+      <a href="https://www.nirinternational.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.nirinternational.com/images/nir-international-trading-logo.png" height="60" alt="Nir International Trading" title="Nir International Trading"/><br/>
+        <strong>Nir International Trading</strong>
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="200">
+      <a href="https://qataraccare.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://qataraccare.com/images/Qatar-AC-Care-Header-Logo.png" height="60" alt="Qatar AC Care" title="Qatar AC Care"/><br/>
+      </a>
+      <strong>Qatar AC Care</strong>
+    </td>
+    <td align="center" width="200">
+      <a href="https://qurandictionary.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://qurandictionary.org/images/logo.png" height="60" alt="Quran Dictionary" title="Quran Dictionary"/><br/>
+      </a>
+      <strong>Quran Dictionary</strong>
+    </td>
+    <td align="center" width="200">
+      <a href="https://sajanmetal.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://sajanmetal.com/storage/app-setting/logo3.png" height="60" alt="Sajan Metal Industries Ltd." title="Sajan Metal Industries Ltd."/><br/>
+        <strong>Sajan Metal Industries Ltd.</strong>
       </a>
     </td>
     <td align="center" width="200">
-      <a href="https://www.example-company7.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://via.placeholder.com/150x60/cc9900/ffffff?text=Company+Seven" height="60" alt="Company Seven logo"/><br/>
-        <strong>Company Seven</strong>
+      <a href="https://simstechbd.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://simstechbd.com/images/sims-tech-engineering-solution-logo.png" height="60" alt="SIMS TECH" title="SIMS TECH"/><br/>
+        <strong>SIMS TECH</strong>
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td align="center" width="200">
+      <a href="https://tech-inninnovation.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://tech-inninnovation.com/images/tech-innovation-logo.png" height="60" alt="Tech-Inn Innovation" title="Tech-Inn Innovation"/><br/>
+      </a>
+      <strong>Tech-Inn Innovation</strong>
+    </td>
+    <td align="center" width="200">
+      <a href="https://tontulika.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://tontulika.com/assets/images/1767281053tontulika%20website.png" height="60" alt="Tontulika" title="Tontulika"/><br/>
+      </a>
+      <strong>Tontulika</strong>
+    </td>
+    <td align="center" width="200">
+      <a href="https://ptel.com.bd/" target="_blank" rel="noopener noreferrer">
+        <img src="https://ptel.com.bd/storage/app-setting/pacific-tech-and-engineering-ltd.png" height="60" alt="Pacific Tech & Engineering Limited" title="Pacific Tech & Engineering Limited"/><br/>
+        <strong>Pacific Tech & Engineering Limited</strong>
       </a>
     </td>
     <td align="center" width="200">
-      <a href="https://www.example-company8.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://via.placeholder.com/150x60/990099/ffffff?text=Company+Eight" height="60" alt="Company Eight logo"/><br/>
-        <strong>Company Eight</strong>
+      <a href="https://ayeshaairtravels.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://ayeshaairtravels.com/images/Aysha-logo-main%20logo.png" height="60" alt="Ayesha Air Travels" title="Ayesha Air Travels"/><br/>
+        <strong>Ayesha Air Travels</strong>
       </a>
     </td>
   </tr>
 </table>
-
-> 📝 **Note:** Replace the placeholder logos and links with your actual client information.
 
 ---
 
