@@ -221,43 +221,33 @@ I have had the privilege to work with reputable organisations and deliver high-q
 
 - Build scalable full-stack web applications
 - Convert business requirements into working software
-- Optimize performance and maintain production systems
-- Manage servers and deployments confidently
+- Debug, troubleshoot, and fix bugs in production systems
+- Optimize performance and maintain production applications
+- Manage servers, deployments, and production environments
+- Configure and maintain mail servers (Postfix, Sendmail, SMTP)
 - Learn new technologies quickly and independently
 
 ---
 
 ## 📂 Projects
 
-> Most projects listed below were developed for companies and real clients.
-
----
-
 ### 🧑‍💼 Human Resource Management (HRM)
-**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel)  
-**Overview:**  
-A comprehensive HR solution designed to automate recruitment workflows,  
-track applicant and employee data, manage payroll, and monitor  
-performance metrics.
-
----
+**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL
+**Overview:** A comprehensive HR solution designed to automate recruitment workflows, track applicant and employee data, manage payroll, and monitor performance metrics.
 
 ### 🏪 Inventory & POS System
-**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel)  
-**Overview:**  
-An inventory and sales management solution that tracks stock levels,  
-automates restocking, and processes real-time sales with POS features  
-such as billing, receipts, and daily reports.
-
----
+**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL
+**Overview:** An inventory and sales management solution that tracks stock levels, automates restocking, and processes real-time sales with POS features such as billing, receipts, and daily reports.
 
 ### 🛒 E-commerce Platform
-**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel)  
-**Overview:**  
-A complete e-commerce solution for showcasing products, managing orders,  
-and processing secure payments with responsive design, advanced product  
-filters, and inventory control.
+**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL
+**Overview:** A complete e-commerce solution for showcasing products, managing orders, and processing secure payments with responsive design, advanced product filters, and inventory control.
 
+### 🏥 Healthcare Support & Consultation Platform
+**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL
+**Overview:** A comprehensive healthcare support and consultation platform aimed at ensuring accessible, affordable, and accurate medical care for all citizens of Bangladesh.
+
+> Most projects listed above were developed for companies and real clients.
 
 ---
 
@@ -265,9 +255,9 @@ filters, and inventory control.
 
 - GitHub: https://github.com/Ayub377
 - LinkedIn: https://www.linkedin.com/in/md-ayub-ali-94a4b917a/
+- Portfolio: http://ayubali.info/
 - Email: ayubxali@gmail.com
 - Phone: +880 1789 773767
-- Portfolio: http://ayubali.info/
 
 ---
 
