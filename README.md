@@ -149,98 +149,96 @@ I have had the privilege to work with reputable organisations and deliver high-q
 
 <table>
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="16.66%">
       <a href="https://doctordorkar.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://doctordorkar.com/favicon.ico" height="50" alt="Doctor Dorkar" title="Doctor Dorkar"/><br/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.66%">
       <a href="https://telmep.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://telmep.com/images/Triangle-BD-Header-Logo.png" height="50" alt="Triangle Engineers Ltd." title="Triangle Engineers Ltd."/><br/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.66%">
       <a href="https://www.amarsafety.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://www.amarsafety.com/storage/logo.png" height="50" alt="Amar Safety" title="Amar Safety"/><br/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.66%">
       <a href="https://axissafety.com.bd/" target="_blank" rel="noopener noreferrer">
         <img src="https://axissafety.com.bd/favicon.ico" height="50" alt="Axis Safety Engineering Ltd." title="Axis Safety Engineering Ltd."/><br/>
       </a>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="16.66%">
       <a href="https://tech-inninnovation.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://tech-inninnovation.com/images/tech-innovation-favicon.png" height="50" alt="Tech-Inn Innovation" title="Tech-Inn Innovation"/><br/>
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%">
-      <a href="https://hadidgalvanizing.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://hadidgalvanizing.com/images/Hadid-Galvanizing-Logo.png" height="50" alt="Hadid Galvanizing" title="Hadid Galvanizing"/><br/>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://hadidglobal.com.bd/" target="_blank" rel="noopener noreferrer">
-        <img src="https://hadidglobal.com.bd/logo.png" height="50" alt="Hadid Global" title="Hadid Global"/><br/>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://msiecotech.com.bd/" target="_blank" rel="noopener noreferrer">
-        <img src="https://msiecotech.com.bd/images/MSI-Ecotech-Limited-favicon.png" height="50" alt="MSI Ecotech Limited" title="MSI Ecotech Limited"/><br/>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.nirinternational.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.nirinternational.com/images/nir-international-trading-favicon.png" height="50" alt="Nir International Trading" title="Nir International Trading"/><br/>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://tontulika.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://tontulika.com/assets/images/1770646084tontulika.png" height="50" alt="Tontulika" title="Tontulika"/><br/>
-      </a>
-    </td>
-  </tr>
-    <tr>
-    <td align="center" width="20%">
-      <a href="https://qataraccare.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://qataraccare.com/images/Qatar-AC-Care-Favicon.png" height="50" alt="Qatar AC Care" title="Qatar AC Care"/><br/>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://qurandictionary.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.qurandictionary.org/images/favicon.ico" height="50" alt="Quran Dictionary" title="Quran Dictionary"/><br/>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://sajanmetal.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://sajanmetal.com/storage/app-setting/logo3.png" height="50" alt="Sajan Metal Industries Ltd." title="Sajan Metal Industries Ltd."/><br/>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://simstechbd.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://simstechbd.com/favicon.ico" height="50" alt="SIMS TECH" title="SIMS TECH"/><br/>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://ptel.com.bd/" target="_blank" rel="noopener noreferrer">
-        <img src="https://ptel.com.bd/favicon.ico" height="50" alt="Pacific Tech & Engineering Limited" title="Pacific Tech & Engineering Limited"/><br/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="20%">
+    <td align="center" width="16.66%">
       <a href="https://ayeshaairtravels.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://ayeshaairtravels.com/images/Ayesha-Air-Travels-Favicon.png" height="50" alt="Ayesha Air Travels" title="Ayesha Air Travels"/><br/>
       </a>
     </td>
-    <td align="center" width="20%">
+  </tr>
+  <tr>
+    <td align="center" width="16.66%">
+      <a href="https://hadidgalvanizing.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://hadidgalvanizing.com/images/Hadid-Galvanizing-Logo.png" height="50" alt="Hadid Galvanizing" title="Hadid Galvanizing"/><br/>
+      </a>
+    </td>
+    <td align="center" width="16.66%">
+      <a href="https://hadidglobal.com.bd/" target="_blank" rel="noopener noreferrer">
+        <img src="https://hadidglobal.com.bd/logo.png" height="50" alt="Hadid Global" title="Hadid Global"/><br/>
+      </a>
+    </td>
+    <td align="center" width="16.66%">
+      <a href="https://msiecotech.com.bd/" target="_blank" rel="noopener noreferrer">
+        <img src="https://msiecotech.com.bd/images/MSI-Ecotech-Limited-favicon.png" height="50" alt="MSI Ecotech Limited" title="MSI Ecotech Limited"/><br/>
+      </a>
+    </td>
+    <td align="center" width="16.66%">
+      <a href="https://www.nirinternational.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.nirinternational.com/images/nir-international-trading-favicon.png" height="50" alt="Nir International Trading" title="Nir International Trading"/><br/>
+      </a>
+    </td>
+    <td align="center" width="16.66%">
+      <a href="https://tontulika.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://tontulika.com/assets/images/1770646084tontulika.png" height="50" alt="Tontulika" title="Tontulika"/><br/>
+      </a>
+    </td>
+    <td align="center" width="16.66%">
       <a href="https://utebd.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://ayubali.info/favicon.ico" height="50" alt="Unique Tools & Engineering" title="Unique Tools & Engineering"/><br/>
       </a>
     </td>
-    <td align="center" width="20%">
+  </tr>
+    <tr>
+    <td align="center" width="16.66%">
+      <a href="https://qataraccare.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://qataraccare.com/images/Qatar-AC-Care-Favicon.png" height="50" alt="Qatar AC Care" title="Qatar AC Care"/><br/>
+      </a>
+    </td>
+    <td align="center" width="16.66%">
+      <a href="https://qurandictionary.org/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.qurandictionary.org/images/favicon.ico" height="50" alt="Quran Dictionary" title="Quran Dictionary"/><br/>
+      </a>
+    </td>
+    <td align="center" width="16.66%">
+      <a href="https://sajanmetal.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://sajanmetal.com/storage/app-setting/logo3.png" height="50" alt="Sajan Metal Industries Ltd." title="Sajan Metal Industries Ltd."/><br/>
+      </a>
+    </td>
+    <td align="center" width="16.66%">
+      <a href="https://simstechbd.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://simstechbd.com/favicon.ico" height="50" alt="SIMS TECH" title="SIMS TECH"/><br/>
+      </a>
+    </td>
+    <td align="center" width="16.66%">
+      <a href="https://ptel.com.bd/" target="_blank" rel="noopener noreferrer">
+        <img src="https://ptel.com.bd/favicon.ico" height="50" alt="Pacific Tech & Engineering Limited" title="Pacific Tech & Engineering Limited"/><br/>
+      </a>
+    </td>
+    <td align="center" width="16.66%">
       <a href="https://vtmotorsport.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://vtmotorsport.com/static/media/logo.3c4c38f6a940010d3e05.png" height="50" alt="Champion Lubricants" title="Champion Lubricants"/><br/>
       </a>
