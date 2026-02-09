@@ -130,16 +130,16 @@ I have had the privilege to work with reputable organisations and deliver high-q
       <strong>Triangle Engineers Ltd.</strong>
     </td>
     <td align="center" width="200">
-      <a href="https://www.example-company3.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://via.placeholder.com/150x60/cc6600/ffffff?text=Company+Three" height="60" alt="Company Three logo"/><br/>
-        <strong>Company Three</strong>
+      <a href="https://www.amarsafety.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://www.amarsafety.com/storage/logo.png" height="60" alt="Amar Safety" title="Amar Safety"/><br/>
       </a>
+      <strong>Amar Safety</strong>
     </td>
     <td align="center" width="200">
-      <a href="https://www.example-company4.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://via.placeholder.com/150x60/cc0066/ffffff?text=Company+Four" height="60" alt="Company Four logo"/><br/>
-        <strong>Company Four</strong>
+      <a href="https://axissafety.com.bd/axis-safety-engineering-ltd.jpg" target="_blank" rel="noopener noreferrer">
+        <img src="https://via.placeholder.com/150x60/cc0066/ffffff?text=Company+Four" height="60" alt="Axis Safety Engineering Ltd." title="Axis Safety Engineering Ltd."/><br/>
       </a>
+      <strong>Axis Safety Engineering Ltd.</strong>
     </td>
   </tr>
   <tr>
