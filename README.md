@@ -232,20 +232,31 @@ I have had the privilege to work with reputable organisations and deliver high-q
 ## 📂 Projects
 
 ### 🧑‍💼 Human Resource Management (HRM)
-**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL
-**Overview:** A comprehensive HR solution designed to automate recruitment workflows, track applicant and employee data, manage payroll, and monitor performance metrics.
+**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL  
+**Overview:** A comprehensive HR solution designed to automate recruitment workflows, track applicant and employee data, manage payroll, and monitor performance metrics.  
+**Project Links:**  
+- 🌐 Live Site: https://demo2.hrmsoftwarebd.com/  
 
 ### 🏪 Inventory & POS System
-**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL
-**Overview:** An inventory and sales management solution that tracks stock levels, automates restocking, and processes real-time sales with POS features such as billing, receipts, and daily reports.
+**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL  
+**Overview:** An inventory and sales management solution that tracks stock levels, automates restocking, and processes real-time sales with POS features such as billing, receipts, and daily reports.  
+**Project Links:**  
+- 🌐 Live Site: https://example.com  
+- 📂 GitHub Repo: https://github.com/Ayub377/pharmacy
 
 ### 🛒 E-commerce Platform
-**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL
-**Overview:** A complete e-commerce solution for showcasing products, managing orders, and processing secure payments with responsive design, advanced product filters, and inventory control.
+**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL  
+**Overview:** A complete e-commerce solution for showcasing products, managing orders, and processing secure payments with responsive design, advanced product filters, and inventory control.  
+**Project Links:**  
+- 🌐 Live Site: https://www.amarsafety.com/  
+- 📂 GitHub Repo: https://github.com/Ayub377/amarsafety
 
 ### 🏥 Healthcare Support & Consultation Platform
-**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL
-**Overview:** A comprehensive healthcare support and consultation platform aimed at ensuring accessible, affordable, and accurate medical care for all citizens of Bangladesh.
+**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL  
+**Overview:** A comprehensive healthcare support and consultation platform aimed at ensuring accessible, affordable, and accurate medical care for all citizens of Bangladesh.  
+**Project Links:**  
+- 🌐 Live Site: https://doctordorkar.com/  
+- 📂 GitHub Repo: https://github.com/Ayub377/doctordorkar
 
 > Most projects listed above were developed for companies and real clients.
 
