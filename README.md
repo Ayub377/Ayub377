@@ -120,31 +120,26 @@ I have had the privilege to work with reputable organisations and deliver high-q
       <a href="https://doctordorkar.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://doctordorkar.com/logo.png" height="50" alt="Doctor Dorkar" title="Doctor Dorkar"/><br/>
       </a>
-      <small>Doctor Dorkar</small>
     </td>
     <td align="center" width="20%">
       <a href="https://telmep.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://telmep.com/images/Triangle-BD-Header-Logo.png" height="50" alt="Triangle Engineers Ltd." title="Triangle Engineers Ltd."/><br/>
       </a>
-      <small>Triangle Engineers Ltd.</small>
     </td>
     <td align="center" width="20%">
       <a href="https://www.amarsafety.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://www.amarsafety.com/storage/logo.png" height="50" alt="Amar Safety" title="Amar Safety"/><br/>
       </a>
-      <small>Amar Safety</small>
     </td>
     <td align="center" width="20%">
       <a href="https://axissafety.com.bd/" target="_blank" rel="noopener noreferrer">
         <img src="https://axissafety.com.bd/favicon.ico" height="50" alt="Axis Safety Engineering Ltd." title="Axis Safety Engineering Ltd."/><br/>
       </a>
-      <small>Axis Safety</small>
     </td>
     <td align="center" width="20%">
       <a href="https://tech-inninnovation.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://tech-inninnovation.com/images/tech-innovation-logo.png" height="50" alt="Tech-Inn Innovation" title="Tech-Inn Innovation"/><br/>
       </a>
-      <small>Tech-Inn Innovation</small>
     </td>
   </tr>
   <tr>
@@ -152,31 +147,26 @@ I have had the privilege to work with reputable organisations and deliver high-q
       <a href="https://hadidgalvanizing.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://hadidgalvanizing.com/images/Hadid-Galvanizing-Logo.png" height="50" alt="Hadid Galvanizing" title="Hadid Galvanizing"/><br/>
       </a>
-      <small>Hadid Galvanizing</small>
     </td>
     <td align="center" width="20%">
       <a href="https://hadidglobal.com.bd/" target="_blank" rel="noopener noreferrer">
         <img src="https://hadidglobal.com.bd/logo.png" height="50" alt="Hadid Global" title="Hadid Global"/><br/>
       </a>
-      <small>Hadid Global</small>
     </td>
     <td align="center" width="20%">
       <a href="https://msiecotech.com.bd/" target="_blank" rel="noopener noreferrer">
         <img src="https://msiecotech.com.bd/images/MSI-Ecotech-Limited-Logo.png" height="50" alt="MSI Ecotech Limited" title="MSI Ecotech Limited"/><br/>
       </a>
-      <small>MSI Ecotech Limited</small>
     </td>
     <td align="center" width="20%">
       <a href="https://www.nirinternational.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://www.nirinternational.com/images/nir-international-trading-logo.png" height="50" alt="Nir International Trading" title="Nir International Trading"/><br/>
       </a>
-      <small>Nir International</small>
     </td>
     <td align="center" width="20%">
       <a href="https://tontulika.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://tontulika.com/assets/images/1767281053tontulika%20website.png" height="50" alt="Tontulika" title="Tontulika"/><br/>
       </a>
-      <small>Tontulika</small>
     </td>
   </tr>
     <tr>
@@ -184,31 +174,26 @@ I have had the privilege to work with reputable organisations and deliver high-q
       <a href="https://qataraccare.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://qataraccare.com/images/Qatar-AC-Care-Header-Logo.png" height="50" alt="Qatar AC Care" title="Qatar AC Care"/><br/>
       </a>
-      <small>Qatar AC Care</small>
     </td>
     <td align="center" width="20%">
       <a href="https://qurandictionary.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://qurandictionary.org/images/logo.png" height="50" alt="Quran Dictionary" title="Quran Dictionary"/><br/>
       </a>
-      <small>Quran Dictionary</small>
     </td>
     <td align="center" width="20%">
       <a href="https://sajanmetal.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://sajanmetal.com/storage/app-setting/logo3.png" height="50" alt="Sajan Metal Industries Ltd." title="Sajan Metal Industries Ltd."/><br/>
       </a>
-      <small>Sajan Metal</small>
     </td>
     <td align="center" width="20%">
       <a href="https://simstechbd.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://simstechbd.com/images/sims-tech-engineering-solution-logo.png" height="50" alt="SIMS TECH" title="SIMS TECH"/><br/>
       </a>
-      <small>SIMS TECH</small>
     </td>
     <td align="center" width="20%">
       <a href="https://ptel.com.bd/" target="_blank" rel="noopener noreferrer">
         <img src="https://ptel.com.bd/favicon.ico" height="50" alt="Pacific Tech & Engineering Limited" title="Pacific Tech & Engineering Limited"/><br/>
       </a>
-      <small>PTEL</small>
     </td>
   </tr>
   <tr>
@@ -216,19 +201,16 @@ I have had the privilege to work with reputable organisations and deliver high-q
       <a href="https://ayeshaairtravels.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://ayeshaairtravels.com/images/Aysha-logo-main%20logo.png" height="50" alt="Ayesha Air Travels" title="Ayesha Air Travels"/><br/>
       </a>
-      <small>Ayesha Air Travels</small>
     </td>
     <td align="center" width="20%">
       <a href="https://utebd.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://ayubali.info/storage/app-setting/unique-uools-and-engineering-logo.png" height="50" alt="Unique Tools & Engineering" title="Unique Tools & Engineering"/><br/>
       </a>
-      <small>UTE</small>
     </td>
     <td align="center" width="20%">
       <a href="https://vtmotorsport.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://vtmotorsport.com/static/media/logo.3c4c38f6a940010d3e05.png" height="50" alt="Champion Lubricants" title="Champion Lubricants"/><br/>
       </a>
-      <small>Champion Lubricants</small>
     </td>
   </tr>
 </table>
@@ -247,16 +229,45 @@ I have had the privilege to work with reputable organisations and deliver high-q
 
 ## 📂 Projects
 
-> 🚧 Selected project repositories will be added soon.  
-> Most projects listed above were developed for companies and clients.
+> Most projects listed below were developed for companies and real clients.
+
+---
+
+### 🧑‍💼 Human Resource Management (HRM)
+**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel)  
+**Overview:**  
+A comprehensive HR solution designed to automate recruitment workflows,  
+track applicant and employee data, manage payroll, and monitor  
+performance metrics.
+
+---
+
+### 🏪 Inventory & POS System
+**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel)  
+**Overview:**  
+An inventory and sales management solution that tracks stock levels,  
+automates restocking, and processes real-time sales with POS features  
+such as billing, receipts, and daily reports.
+
+---
+
+### 🛒 E-commerce Platform
+**Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel)  
+**Overview:**  
+A complete e-commerce solution for showcasing products, managing orders,  
+and processing secure payments with responsive design, advanced product  
+filters, and inventory control.
+
 
 ---
 
 ## 📫 Contact
 
 - GitHub: https://github.com/Ayub377
-- LinkedIn: (add your LinkedIn)
-- Email: (add professional email)
+- LinkedIn: https://www.linkedin.com/in/md-ayub-ali-94a4b917a/
+- Email: ayubxali@gmail.com
+- Phone: +880 1789 773767
+- Portfolio: http://ayubali.info/
 
 ---
 
