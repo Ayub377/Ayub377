@@ -81,9 +81,6 @@ These projects involved real clients, real users, and real production environmen
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/><br/>Nginx
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/><br/>Apache
     </td>
