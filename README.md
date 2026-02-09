@@ -138,7 +138,7 @@ I have had the privilege to work with reputable organisations and deliver high-q
       <a href="https://axissafety.com.bd/" target="_blank" rel="noopener noreferrer">
         <img src="https://axissafety.com.bd/favicon.ico" height="50" alt="Axis Safety Engineering Ltd." title="Axis Safety Engineering Ltd."/><br/>
       </a>
-      <small>Axis Safety Engineering Ltd.</small>
+      <small>Axis Safety</small>
     </td>
     <td align="center" width="20%">
       <a href="https://tech-inninnovation.com/" target="_blank" rel="noopener noreferrer">
@@ -170,7 +170,7 @@ I have had the privilege to work with reputable organisations and deliver high-q
       <a href="https://www.nirinternational.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://www.nirinternational.com/images/nir-international-trading-logo.png" height="50" alt="Nir International Trading" title="Nir International Trading"/><br/>
       </a>
-      <small>Nir International Trading</small>
+      <small>Nir International</small>
     </td>
     <td align="center" width="20%">
       <a href="https://tontulika.com/" target="_blank" rel="noopener noreferrer">
@@ -196,7 +196,7 @@ I have had the privilege to work with reputable organisations and deliver high-q
       <a href="https://sajanmetal.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://sajanmetal.com/storage/app-setting/logo3.png" height="50" alt="Sajan Metal Industries Ltd." title="Sajan Metal Industries Ltd."/><br/>
       </a>
-      <small>Sajan Metal Industries Ltd.</small>
+      <small>Sajan Metal</small>
     </td>
     <td align="center" width="20%">
       <a href="https://simstechbd.com/" target="_blank" rel="noopener noreferrer">
@@ -222,13 +222,13 @@ I have had the privilege to work with reputable organisations and deliver high-q
       <a href="https://utebd.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://ayubali.info/storage/app-setting/unique-uools-and-engineering-logo.png" height="50" alt="Unique Tools & Engineering" title="Unique Tools & Engineering"/><br/>
       </a>
-      <small>Unique Tools & Engineering</small>
+      <small>UTE</small>
     </td>
     <td align="center" width="20%">
       <a href="https://vtmotorsport.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://vtmotorsport.com/static/media/logo.3c4c38f6a940010d3e05.png" height="50" alt="CHAMPION LUBRICANTS" title="CHAMPION LUBRICANTS"/><br/>
+        <img src="https://vtmotorsport.com/static/media/logo.3c4c38f6a940010d3e05.png" height="50" alt="Champion Lubricants" title="Champion Lubricants"/><br/>
       </a>
-      <small>CHAMPION LUBRICANTS</small>
+      <small>Champion Lubricants</small>
     </td>
   </tr>
 </table>
