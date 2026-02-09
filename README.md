@@ -34,7 +34,16 @@ These projects involved real clients, real users, and real production environmen
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><br/>JS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><br/>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/><br/>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/><br/>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/><br/>TypeScript
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/><br/>PHP
@@ -43,67 +52,91 @@ These projects involved real clients, real users, and real production environmen
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/><br/>Python
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/><br/>HTML
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/><br/>C
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/><br/>CSS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/><br/>Java
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/><br/>Node
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/><br/>Express
-    </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/><br/>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/><br/>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40"/><br/>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/><br/>React Native
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/><br/>jQuery
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/><br/>Node.js
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/><br/>Laravel
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/><br/>Docker
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/><br/>Bootstrap
     </td>
   </tr>
 
   <tr>
-    <td align="center">
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/><br/>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postcss/postcss-original.svg" height="40"/><br/>PostCSS
+    </td>
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/><br/>MySQL
     </td>
-    <td align="center">
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/><br/>MongoDB
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/><br/>Postgres
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40"/><br/>Mongoose
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/><br/>Linux
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/><br/>PostgreSQL
     </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/><br/>Nginx
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/><br/>Apache
-    </td>
-    <td align="center">
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/><br/>Git
     </td>
-    <td align="center">
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/><br/>GitHub
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/><br/>VS Code
-    </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/cpanel" height="40"/><br/>cPanel
     </td>
   </tr>
 
   <tr>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/postfix" height="40"/><br/>Postfix
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/><br/>Docker
     </td>
-    <td align="center">
-      <img src="https://cdn.simpleicons.org/sendmail" height="40"/><br/>Sendmail
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/><br/>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/><br/>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/><br/>Apache
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/><br/>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/cpanel" height="40"/><br/>cPanel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" height="40"/><br/>Postfix
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/sendgrid-1.svg" height="40"/><br/>Sendmail
     </td>
   </tr>
 </table>
@@ -118,7 +151,7 @@ I have had the privilege to work with reputable organisations and deliver high-q
   <tr>
     <td align="center" width="20%">
       <a href="https://doctordorkar.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://doctordorkar.com/logo.png" height="50" alt="Doctor Dorkar" title="Doctor Dorkar"/><br/>
+        <img src="https://doctordorkar.com/favicon.ico" height="50" alt="Doctor Dorkar" title="Doctor Dorkar"/><br/>
       </a>
     </td>
     <td align="center" width="20%">
@@ -138,7 +171,7 @@ I have had the privilege to work with reputable organisations and deliver high-q
     </td>
     <td align="center" width="20%">
       <a href="https://tech-inninnovation.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://tech-inninnovation.com/images/tech-innovation-logo.png" height="50" alt="Tech-Inn Innovation" title="Tech-Inn Innovation"/><br/>
+        <img src="https://tech-inninnovation.com/images/tech-innovation-favicon.png" height="50" alt="Tech-Inn Innovation" title="Tech-Inn Innovation"/><br/>
       </a>
     </td>
   </tr>
@@ -155,29 +188,29 @@ I have had the privilege to work with reputable organisations and deliver high-q
     </td>
     <td align="center" width="20%">
       <a href="https://msiecotech.com.bd/" target="_blank" rel="noopener noreferrer">
-        <img src="https://msiecotech.com.bd/images/MSI-Ecotech-Limited-Logo.png" height="50" alt="MSI Ecotech Limited" title="MSI Ecotech Limited"/><br/>
+        <img src="https://msiecotech.com.bd/images/MSI-Ecotech-Limited-favicon.png" height="50" alt="MSI Ecotech Limited" title="MSI Ecotech Limited"/><br/>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://www.nirinternational.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.nirinternational.com/images/nir-international-trading-logo.png" height="50" alt="Nir International Trading" title="Nir International Trading"/><br/>
+        <img src="https://www.nirinternational.com/images/nir-international-trading-favicon.png" height="50" alt="Nir International Trading" title="Nir International Trading"/><br/>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://tontulika.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://tontulika.com/assets/images/1767281053tontulika%20website.png" height="50" alt="Tontulika" title="Tontulika"/><br/>
+        <img src="https://tontulika.com/assets/images/1770646084tontulika.png" height="50" alt="Tontulika" title="Tontulika"/><br/>
       </a>
     </td>
   </tr>
     <tr>
     <td align="center" width="20%">
       <a href="https://qataraccare.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://qataraccare.com/images/Qatar-AC-Care-Header-Logo.png" height="50" alt="Qatar AC Care" title="Qatar AC Care"/><br/>
+        <img src="https://qataraccare.com/images/Qatar-AC-Care-Favicon.png" height="50" alt="Qatar AC Care" title="Qatar AC Care"/><br/>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://qurandictionary.org/" target="_blank" rel="noopener noreferrer">
-        <img src="https://qurandictionary.org/images/logo.png" height="50" alt="Quran Dictionary" title="Quran Dictionary"/><br/>
+        <img src="https://www.qurandictionary.org/images/favicon.ico" height="50" alt="Quran Dictionary" title="Quran Dictionary"/><br/>
       </a>
     </td>
     <td align="center" width="20%">
@@ -187,7 +220,7 @@ I have had the privilege to work with reputable organisations and deliver high-q
     </td>
     <td align="center" width="20%">
       <a href="https://simstechbd.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://simstechbd.com/images/sims-tech-engineering-solution-logo.png" height="50" alt="SIMS TECH" title="SIMS TECH"/><br/>
+        <img src="https://simstechbd.com/favicon.ico" height="50" alt="SIMS TECH" title="SIMS TECH"/><br/>
       </a>
     </td>
     <td align="center" width="20%">
@@ -199,12 +232,12 @@ I have had the privilege to work with reputable organisations and deliver high-q
   <tr>
     <td align="center" width="20%">
       <a href="https://ayeshaairtravels.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://ayeshaairtravels.com/images/Aysha-logo-main%20logo.png" height="50" alt="Ayesha Air Travels" title="Ayesha Air Travels"/><br/>
+        <img src="https://ayeshaairtravels.com/images/Ayesha-Air-Travels-Favicon.png" height="50" alt="Ayesha Air Travels" title="Ayesha Air Travels"/><br/>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://utebd.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://ayubali.info/storage/app-setting/unique-uools-and-engineering-logo.png" height="50" alt="Unique Tools & Engineering" title="Unique Tools & Engineering"/><br/>
+        <img src="https://ayubali.info/favicon.ico" height="50" alt="Unique Tools & Engineering" title="Unique Tools & Engineering"/><br/>
       </a>
     </td>
     <td align="center" width="20%">
@@ -232,30 +265,38 @@ I have had the privilege to work with reputable organisations and deliver high-q
 ## 📂 Projects
 
 ### 🧑‍💼 Human Resource Management (HRM)
+
 **Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL  
 **Overview:** A comprehensive HR solution designed to automate recruitment workflows, track applicant and employee data, manage payroll, and monitor performance metrics.  
-**Project Links:**  
-- 🌐 Live Site: https://demo2.hrmsoftwarebd.com/  
+**Project Links:**
+
+- 🌐 Live Site: https://demo2.hrmsoftwarebd.com/
 
 ### 🏪 Inventory & POS System
+
 **Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL  
 **Overview:** An inventory and sales management solution that tracks stock levels, automates restocking, and processes real-time sales with POS features such as billing, receipts, and daily reports.  
-**Project Links:**  
-- 🌐 Live Site: https://example.com  
+**Project Links:**
+
+- 🌐 Live Site: https://example.com
 - 📂 GitHub Repo: https://github.com/Ayub377/pharmacy
 
 ### 🛒 E-commerce Platform
+
 **Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL  
 **Overview:** A complete e-commerce solution for showcasing products, managing orders, and processing secure payments with responsive design, advanced product filters, and inventory control.  
-**Project Links:**  
-- 🌐 Live Site: https://www.amarsafety.com/  
+**Project Links:**
+
+- 🌐 Live Site: https://www.amarsafety.com/
 - 📂 GitHub Repo: https://github.com/Ayub377/amarsafety
 
 ### 🏥 Healthcare Support & Consultation Platform
+
 **Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL  
 **Overview:** A comprehensive healthcare support and consultation platform aimed at ensuring accessible, affordable, and accurate medical care for all citizens of Bangladesh.  
-**Project Links:**  
-- 🌐 Live Site: https://doctordorkar.com/  
+**Project Links:**
+
+- 🌐 Live Site: https://doctordorkar.com/
 - 📂 GitHub Repo: https://github.com/Ayub377/doctordorkar
 
 > Most projects listed above were developed for companies and real clients.
