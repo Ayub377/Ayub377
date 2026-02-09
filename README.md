@@ -14,31 +14,6 @@ I am a **self-learner**, highly adaptable, and comfortable working with both dev
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayub377&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayub377&layout=compact&theme=tokyonight" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayub377&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayub377's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayub377&theme=tokyonight&hide_border=true" alt="Ayub377's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayub377&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
 ## 💼 Professional Experience
 
 I have hands-on experience developing and maintaining enterprise-level systems, including:
@@ -297,4 +272,6 @@ I have had the privilege to work with reputable organisations and deliver high-q
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayub377&theme=tokyonight&hide_border=true" alt="Ayub377's GitHub Streak" />
+</p>
