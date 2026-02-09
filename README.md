@@ -135,8 +135,8 @@ I have had the privilege to work with reputable organisations and deliver high-q
       <strong>Amar Safety</strong>
     </td>
     <td align="center" width="200">
-      <a href="https://axissafety.com.bd/axis-safety-engineering-ltd.jpg" target="_blank" rel="noopener noreferrer">
-        <img src="https://via.placeholder.com/150x60/cc0066/ffffff?text=Company+Four" height="60" alt="Axis Safety Engineering Ltd." title="Axis Safety Engineering Ltd."/><br/>
+      <a href="https://axissafety.com.bd/" target="_blank" rel="noopener noreferrer">
+        <img src="https://axissafety.com.bd/axis-safety-engineering-ltd.jpg" height="60" alt="Axis Safety Engineering Ltd." title="Axis Safety Engineering Ltd."/><br/>
       </a>
       <strong>Axis Safety Engineering Ltd.</strong>
     </td>
@@ -157,14 +157,14 @@ I have had the privilege to work with reputable organisations and deliver high-q
     <td align="center" width="200">
       <a href="https://msiecotech.com.bd/" target="_blank" rel="noopener noreferrer">
         <img src="https://msiecotech.com.bd/images/MSI-Ecotech-Limited-Logo.png" height="60" alt="MSI Ecotech Limited" title="MSI Ecotech Limited"/><br/>
-        <strong>MSI Ecotech Limited</strong>
       </a>
+      <strong>MSI Ecotech Limited</strong>
     </td>
     <td align="center" width="200">
       <a href="https://www.nirinternational.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://www.nirinternational.com/images/nir-international-trading-logo.png" height="60" alt="Nir International Trading" title="Nir International Trading"/><br/>
-        <strong>Nir International Trading</strong>
       </a>
+      <strong>Nir International Trading</strong>
     </td>
   </tr>
     <tr>
@@ -183,14 +183,14 @@ I have had the privilege to work with reputable organisations and deliver high-q
     <td align="center" width="200">
       <a href="https://sajanmetal.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://sajanmetal.com/storage/app-setting/logo3.png" height="60" alt="Sajan Metal Industries Ltd." title="Sajan Metal Industries Ltd."/><br/>
-        <strong>Sajan Metal Industries Ltd.</strong>
       </a>
+      <strong>Sajan Metal Industries Ltd.</strong>
     </td>
     <td align="center" width="200">
       <a href="https://simstechbd.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://simstechbd.com/images/sims-tech-engineering-solution-logo.png" height="60" alt="SIMS TECH" title="SIMS TECH"/><br/>
-        <strong>SIMS TECH</strong>
       </a>
+      <strong>SIMS TECH</strong>
     </td>
   </tr>
     <tr>
@@ -209,14 +209,14 @@ I have had the privilege to work with reputable organisations and deliver high-q
     <td align="center" width="200">
       <a href="https://ptel.com.bd/" target="_blank" rel="noopener noreferrer">
         <img src="https://ptel.com.bd/storage/app-setting/pacific-tech-and-engineering-ltd.png" height="60" alt="Pacific Tech & Engineering Limited" title="Pacific Tech & Engineering Limited"/><br/>
-        <strong>Pacific Tech & Engineering Limited</strong>
       </a>
+      <strong>Pacific Tech & Engineering Limited</strong>
     </td>
     <td align="center" width="200">
       <a href="https://ayeshaairtravels.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://ayeshaairtravels.com/images/Aysha-logo-main%20logo.png" height="60" alt="Ayesha Air Travels" title="Ayesha Air Travels"/><br/>
-        <strong>Ayesha Air Travels</strong>
       </a>
+      <strong>Ayesha Air Travels</strong>
     </td>
   </tr>
 </table>
