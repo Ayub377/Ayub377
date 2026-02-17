@@ -248,7 +248,7 @@ I have had the privilege to work with reputable organisations and deliver high-q
     </td>
     <td align="center" width="14.28%">
       <a href="https://utebd.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://ayubali.info/favicon.ico" height="50" alt="Unique Tools & Engineering" title="Unique Tools & Engineering"/><br/>
+        <img src="https://utebd.com/favicon.ico" height="50" alt="Unique Tools & Engineering" title="Unique Tools & Engineering"/><br/>
       </a>
     </td>
     <td align="center" width="14.28%">
