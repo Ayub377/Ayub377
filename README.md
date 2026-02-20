@@ -293,7 +293,7 @@ I have had the privilege to work with reputable organisations and deliver high-q
 - Build scalable full-stack web applications
 - Convert business requirements into working software
 - Debug, troubleshoot, and fix bugs in production systems
-- Optimize performance and maintain production applications
+- Optimise performance and maintain production applications
 - Manage servers, deployments, and production environments
 - Configure and maintain mail servers (Postfix, Sendmail, SMTP)
 - Learn new technologies quickly and independently
@@ -322,7 +322,7 @@ I have had the privilege to work with reputable organisations and deliver high-q
 ### 🛒 E-commerce Platform
 
 **Technologies:** HTML, CSS, Bootstrap, jQuery, Ajax, PHP (Laravel), MySQL  
-**Overview:** A complete e-commerce solution for showcasing products, managing orders, and processing secure payments with responsive design, advanced product filters, and inventory control.  
+**Overview:** A complete e-commerce solution for showcasing products, managing orders, and processing secure payments with a responsive design, advanced product filters, and inventory control.  
 **Project Links:**
 
 - 🌐 Live Site: https://www.amarsafety.com/
@@ -337,14 +337,14 @@ I have had the privilege to work with reputable organisations and deliver high-q
 - 🌐 Live Site: https://doctordorkar.com/
 - 📂 GitHub Repo: https://github.com/Ayub377/doctordorkar
 
-> Most projects listed above were developed for companies and real clients.
+> Most of the projects listed above were developed for companies and real clients.
 
 ---
 
 ## 📫 Contact
 
 - GitHub: https://github.com/Ayub377
-- LinkedIn: https://www.linkedin.com/in/md-ayub-ali-94a4b917a/
+- LinkedIn: https://www.linkedin.com/in/ayub377/
 - Portfolio: http://ayubali.info/
 - Email: ayubxali@gmail.com
 - Phone: +880 1789 773767
