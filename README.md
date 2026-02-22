@@ -7,7 +7,15 @@ Experienced in building real-world, production-ready applications
 
 ## 👋 About Me
 
-I am a **Full Stack Web Developer** with professional working experience in multiple software companies. I have worked on a wide range of **real-life business applications**, from design to deployment. I am a **self-learner**, highly adaptable, and comfortable working with both development and server infrastructure.
+I am a Full-Stack Web Developer with 4+ years of professional experience building scalable, business-focused software solutions. I specialise in PHP (Laravel) and React.js (Redux), with strong expertise in full-stack development, system architecture, integration, and database-driven application development. I focus on delivering reliable, efficient, and user-centric systems that solve real business problems.
+
+Throughout my career, I have successfully developed and deployed multiple enterprise-level software systems, including HRM software used by government, international, and local organisations. I have also built POS systems, accounting software, e-commerce platforms, and healthcare consultation systems, helping businesses automate operations and improve efficiency.
+
+In addition to product development, I have worked contractually with 30+ companies to build their corporate portfolio websites, showcasing products, services, and projects. My experience also includes server management, deployment, mail server configuration, and troubleshooting, ensuring stable and secure production environments.
+
+I am continuously focused on professional growth and technical excellence. My current goal is to deepen my expertise in advanced software architecture, server management, and mail server infrastructure. I am also actively exploring AI technologies, including AI agents and workflow automation tools like n8n, to build smarter and more intelligent systems.
+
+I am passionate about solving complex problems, learning new technologies, and contributing to impactful software solutions that drive business success.
 
 ---
 
