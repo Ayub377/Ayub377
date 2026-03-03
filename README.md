@@ -181,6 +181,11 @@ I have had the privilege to work with reputable organisations and deliver high-q
         <img src="https://vtmotorsport.com/static/media/logo.3c4c38f6a940010d3e05.png" height="50" alt="Champion Lubricants" title="Champion Lubricants"/><br/>
       </a>
     </td>
+    <td align="center" width="14.28%">
+      <a href="https://bizguideusa.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://bizguideusa.com/admin-assets/images/biz-guide-usa.png" height="50" alt="BIZ Guide USA" title="BIZ Guide USA"/><br/>
+      </a>
+    </td>
   </tr>
 </table>
 
