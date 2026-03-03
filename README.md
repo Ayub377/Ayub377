@@ -182,8 +182,8 @@ I have had the privilege to work with reputable organisations and deliver high-q
       </a>
     </td>
     <td align="center" width="14.28%">
-      <a href="https://bizguideusa.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://bizguideusa.com/admin-assets/images/biz-guide-usa.png" height="50" alt="BIZ Guide USA" title="BIZ Guide USA"/><br/>
+      <a href="https://bizinfobd.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://bizguideusa.com/admin-assets/images/biz-info-bd.png" height="50" alt="BIZ Info BD" title="BIZ Info BD"/><br/>
       </a>
     </td>
   </tr>
